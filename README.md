@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A Student of Data Science & Big Data from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcsfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="lcsfernandes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcsfernandes" alt="lcsfernandes" /></a> </p>
+<h3 align="left">About me:</h3> Hello! I am a dedicated and enthusiastic student of Data Science/Data Engineering, passionate about exploring the world of data and turning it into meaningful insights. My goal is to develop strong skills in data analysis, machine learning, and data engineering, with the aim of applying this knowledge to solve real-world problems.
 
 - 🌱 I’m currently learning **Data Science and Data Engineer**
-
-- 💬 Ask me about **Data Science / Data Enginneer**
 
 - 📫 How to reach me **lucaskafer@hotmail.com**
 
@@ -27,6 +22,7 @@
 
 
 <!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcsfernandes" alt="lcsfernandes" /></a> </p>
 **LcsFernandes/lcsFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
