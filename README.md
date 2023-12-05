@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
-<h3 align="left">About me:</h3> Hello! I am a dedicated and enthusiastic student of Data Science/Data Engineering, passionate about exploring the world of data and turning it into meaningful insights. My goal is to develop strong skills in data analysis, machine learning, and data engineering, with the aim of applying this knowledge to solve real-world problems.
+<h3 align="left">About me:</h3> Hello! I am a dedicated and enthusiastic student of Big Data, passionate about exploring the world of data and turning it into meaningful insights. My goal is to develop strong skills in data analysis, data science and data engineering, with the aim of applying this knowledge to solve real-world problems.
 
-- 🌱 I’m currently learning **Data Science and Data Engineer**
+- 🌱 I’m currently learning **Big data**
 
 - 📫 How to reach me **lucaskafer@hotmail.com**
 
