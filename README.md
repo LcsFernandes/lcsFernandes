@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
-<h3 align="left">About me:</h3> Hello! I am a dedicated and enthusiastic student of Big Data, passionate about exploring the world of data and turning it into meaningful insights. My goal is to develop strong skills in data engineering, with the aim of applying this knowledge to solve real-world problems.
+<h3 align="left">About me:</h3> Engenheiro de Dados, dedicado à arte de transformar dados brutos em insights. Com habilidades em Extração utilizando principalmente Web Scrapping, Python e Nifi. Processamento distribuído utilizando Hadoop e Spark. Disponibilização dos dados para consumo em Datalakes e DWs. Utilizando tecnologias e conceitos modernos em Cloud Computing. Uma mentalidade analítica, estou em busca de oportunidades para aplicar meu conhecimento em projetos inovadores e contribuir para soluções orientadas por dados que impulsionem o sucesso dos negócios.
 
 - 🌱 I’m currently learning **Data Engineer**
 
